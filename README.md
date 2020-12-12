@@ -1,4 +1,4 @@
-# Digit and character recognition with DL
+Character recognition with DL
 
 First study:
 ----------- 
