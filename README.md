@@ -10,9 +10,9 @@ First study:
 
 Second study:
 ----------- 
+![conversion](https://user-images.githubusercontent.com/49865957/101990919-3b375e00-3cba-11eb-9d58-4a8d5db6e6dc.jpg)
+
 This step will serve to convert the visuals of all letters written in accordance with all the rules in the literature to text format.
-
-
 
 Letter_Images folder: we need characters which contain pure pixels. Why pure pixels? Because this code control with test characters and orginal characters pixels by pixels. (only A, B and C be used - if needs, it can be increased)
 
