@@ -20,3 +20,8 @@ Test_Images folder: characters which as a copy of original one. Why we put origi
 
  If the letters written in the same format are compared to pixels, it can be determined which character is used. But pixel by pixel comparison is not a real-life method, so we need ML/DL solutions.
 
+Third study:
+----------- 
+- import dataset from keras MNIST
+- train the model which would be able to recognize digits
+- test model
