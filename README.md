@@ -23,6 +23,10 @@ Test_Images folder: characters which as a copy of original one. Why we put origi
 Third study:
 ----------- 
 - import dataset from keras MNIST
+
+![mnist](https://user-images.githubusercontent.com/49865957/103159547-cf85e280-47db-11eb-868b-38e8a6100699.png)
+
+
 - train the model which would be able to recognize digits
 - test model
 
