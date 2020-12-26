@@ -25,3 +25,6 @@ Third study:
 - import dataset from keras MNIST
 - train the model which would be able to recognize digits
 - test model
+
+This step contains Convolutional Neural Network (CNN) Structure. Because there is not any specific feature from some data. We need create features (feature vector) from each dataset. While training model, features will update according to dataset. Therefore, we need to use CNN. 
+
