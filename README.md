@@ -2,9 +2,13 @@ Character recognition with DL
 
 First study:
 ----------- 
+![Ekran Resmi 2020-01-02 01 12 36](https://user-images.githubusercontent.com/49865957/103447095-c2636a80-4c97-11eb-8692-84eba450fd84.png)
+
 * importing cv2 and pillow
 * difference btw them
-* edge detection
+* edge detection versus max_val and min_val
+
+
 * plotting
 
 
