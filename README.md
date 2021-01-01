@@ -35,16 +35,17 @@ This step contains Convolutional Neural Network (CNN) Structure. Because there i
 Our model: 
 
 Train(x_train, y_train) and test(x_test, y_test) dataset is downloaded from mnist sources.
-x_train has 60k image. y_train is a value cluster of x_train as a number. But this point is crucial; y_train dataset contains digits such as 2,3,4. To categorization, we need to use **one_hot_encoding** transformation. With help of this transformation, the result of model will assign tocorrect place.
+x_train has 60k images. y_train is a value cluster of x_train as a number. But this point is crucial; y_train dataset contains digits such as 2,3,4. To categorization, we need to use **one_hot_encoding** transformation. With help of this transformation, the result of model will assign tocorrect place.
 
 To test training model, 10000 images exist in t_test and values of x_test as a number is in y_test. 
 
-After test run, only one result occurs such as %85 accuracy. this is a result which training model applied on test dataset.
+After test run, only one result occurs such as %xx accuracy. This is a result which training model applied on test dataset.
 
 4 Layers -50 50 50 10 neurons - shown as model_plot.png 
 Activation variety: tanh, relu and softmax
 0.5 drop-out applied on model to avoid of overfitting
 loss function = 'categorical_crossentropy'
+Validation split: 0.1 * x_train
 metrics: validation accuracy, validation loss, test accuracy and test loss
 
 
