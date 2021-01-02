@@ -10,8 +10,6 @@ First study:
 
 ![Ekran Resmi 2020-01-02 01 17 20](https://user-images.githubusercontent.com/49865957/103447153-72d16e80-4c98-11eb-9653-26e30e20fb93.png)
 
-* plotting
-
 
 Second study:
 ----------- 
